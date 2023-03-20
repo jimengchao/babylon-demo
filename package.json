@@ -1,0 +1,21 @@
+{
+  "name": "babylonjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.2",
+    "vite": "^4.2.0"
+  },
+  "dependencies": {
+    "@babylonjs/core": "^5.51.0",
+    "@babylonjs/loaders": "^5.51.0"
+  }
+}
